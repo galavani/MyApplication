@@ -11,8 +11,28 @@
     tools:context="ir.rayco.myapplication.MainActivity">
 
     <TextView
+
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
+
+        android:text="Hello World!" />
+
+
+
+
+
+
+   <TextView
+
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+
+
+
+textcolor="#000000000"
+        android:text="Hello zeynab/>
+
+
         android:text="@string/string" />
 
     <ImageView
@@ -21,4 +41,5 @@
         android:contentDescription="@string/string"
         android:src="@mipmap/ic_launcher"
         />
+
 </RelativeLayout>
